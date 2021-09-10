@@ -1,0 +1,36 @@
+body{
+
+    background:white;
+
+}
+#header{
+ 
+   
+    background : #10284e;
+    color : #ffffff; 
+}
+
+#branding h1{
+    color : #fff;
+}
+
+a:link,
+a:visited{
+    color:#dadfe7;
+}
+
+div.breadcrumbs{
+    background: #30caa3;
+}
+
+div.breadcrumbs{
+    color:#333;
+}
+
+.module h2, .module caption,
+.inline-group h2 {
+
+    background:#30caa0;
+
+}
+
